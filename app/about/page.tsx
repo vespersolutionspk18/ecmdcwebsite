@@ -11,7 +11,7 @@ const page = () => {
         <div className="w-full bg-gray-950 flex flex-row h-[640px]">
         <div className="w-1/2 flex flex-col p-20 gap-5  justify-center">
         <h1 className="text-6xl text-gray-200 font-light">Who we are</h1>
-        <p className="text-gray-300 text-justify">ECMDC (Pvt.) Limited (ecmdc) is a Pakistani Private Sector owned multidisciplinary ISO Certified Company, involved in providing engineering and management consultancy services domestically and internationally; established in 1996, and registered with the Pakistan Engineering Council.</p>
+        <p className="text-gray-300 text-justify">ECMDC (Pvt.) Limited (ecmdc) is a Pakistani Private Sector owned multidisciplinary ISO Certified Company, involved in providing engineering and management consultancy services domestically and internationally.</p>
         <div className="flex flex-row gap-20 my-10">
             <div className="">
                 <h2 className="font-light text-gray-200 text-6xl">&gt;250</h2>
