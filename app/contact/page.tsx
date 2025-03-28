@@ -21,7 +21,7 @@ const page = () => {
             <h5 className="text-2xl text-white mt-3 mb-1 font-thin">Peshawar Office</h5>
             <p className="text-white font-thin">C2, 2nd Floor, New Park View Apartments, Peshawar</p>
             <h5 className="text-2xl text-white mt-3 mb-1 font-thin">Phone</h5>
-            <p className="text-white font-thin">+92 42 35220805</p>
+            <p className="text-white font-thin">+92 300 5557859</p>
             <h5 className="text-2xl text-white mt-3 mb-1 font-thin">Email</h5>
             <p className="text-white font-thin">info@ecmdc.co</p>
 
